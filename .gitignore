@@ -1,0 +1,7 @@
+myvenv/
+.DS_Store
+.idea/
+
+db.sqlite3
+
+__pycache__/
